@@ -15,9 +15,10 @@ float_2 = 4.819
 print("Pierwsza liczba całkowita: %d" % int)
 print("Druga liczba całkowita: %d" % int_2)
 
-print("Pierwsza liczba zmiennoprzecinkowa: %f" % float)
-print("Druga liczba zmiennoprzecinkowa: %f" % float_2)
 
 print("Pierwszy ciąg znaków: %s" % string)
 print("Drugi ciąg znaków: %s" % string_2)
+
+print("Pierwsza liczba zmiennoprzecinkowa: %f" % float)
+print("Druga liczba zmiennoprzecinkowa: %f" % float_2)
 
