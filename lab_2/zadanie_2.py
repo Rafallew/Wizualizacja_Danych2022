@@ -1,4 +1,4 @@
-abbreviations = {
+skroty = {
     'al.': 'aleja',
     'cd.': 'ciąg dalszy',
     'cdn.': 'ciąg dalszy nastąpi',
@@ -11,4 +11,4 @@ abbreviations = {
     'mgr': 'magister',
     'NIP': 'Numer Identyfikacji Podatkowej'
 }
-print(abbreviations)
+print(skroty)
